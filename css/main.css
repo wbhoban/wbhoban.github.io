@@ -9,6 +9,7 @@ body {
   margin-left: 30px;
   text-align: left;
   width: 150px;
+  line-height: 17px;
   font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
 }
 
@@ -41,13 +42,13 @@ body {
 }
 
 #content {
-  margin-top: 15px;
+  margin-top: 23px;
   float: left;
   width: 500px;
 }
 
 #content h1, #content h2, #content h3 {
-  font-size: 13px;
+  font-size: 15px;
   color: #696969;
   font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
   margin: 0;
