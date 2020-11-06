@@ -47,6 +47,8 @@ body {
 }
 
 #content h1, #content h2, #content h3 {
+  font-size: 13px;
+  color: #696969;
   font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
   margin: 0;
 }
